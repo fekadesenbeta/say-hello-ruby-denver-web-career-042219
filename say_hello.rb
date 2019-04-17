@@ -1,5 +1,5 @@
 # Build your say_hello method here
 
-def greeting(name, language)
+def say_hello(phrase = "Hello", name)
   puts "Hello, #{name}. We heard you are a great #{language} programmer."
 end
