@@ -1,7 +1,6 @@
 # Build your say_hello method here
 
-def say_hello(phrase = "Hello", name)
-  puts "Hello, #{name}.
+def say_hello
+  
 end
 
-say_hello(prase "Kent Beck")
