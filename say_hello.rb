@@ -1,7 +1,8 @@
 # Build your say_hello method here
 
 def say_hello("Hello", name)
-  puts 
+  puts "Hello, #{name}"
 end
 
+say_hello()
 
